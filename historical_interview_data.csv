@@ -1,0 +1,101 @@
+Company,Topic,Frequency,Difficulty,Recency
+Google,Graph,5,3,2
+Microsoft,Graph,1,1,5
+Microsoft,Sorting,10,4,4
+Google,Sorting,3,4,5
+Facebook,Sorting,1,4,2
+Facebook,Linked List,2,5,5
+Facebook,Sorting,10,5,4
+Amazon,Array,8,1,4
+Apple,Binary Tree,8,5,3
+Google,Graph,6,3,4
+Amazon,Sorting,1,1,2
+Google,Array,9,2,5
+Facebook,Graph,4,1,2
+Amazon,Graph,3,3,5
+Microsoft,Graph,7,4,4
+Microsoft,Sorting,6,2,4
+Apple,Dynamic Programming,6,2,4
+Apple,Graph,4,3,1
+Google,Graph,10,5,1
+Amazon,Graph,6,1,4
+Facebook,Binary Tree,4,4,3
+Amazon,Graph,5,5,4
+Microsoft,Binary Tree,7,2,3
+Amazon,Array,8,2,4
+Facebook,Linked List,3,4,1
+Microsoft,Dynamic Programming,10,3,1
+Amazon,Dynamic Programming,8,4,5
+Apple,Binary Tree,9,5,4
+Microsoft,Dynamic Programming,3,4,4
+Apple,Linked List,8,3,4
+Apple,Array,1,1,2
+Google,Array,2,2,5
+Google,Sorting,3,1,4
+Amazon,Linked List,8,4,1
+Google,Graph,8,4,4
+Facebook,Array,5,1,4
+Facebook,Linked List,5,4,4
+Amazon,Sorting,3,3,5
+Facebook,Dynamic Programming,4,2,5
+Amazon,Binary Tree,7,5,1
+Apple,Array,10,3,5
+Facebook,Linked List,10,5,1
+Google,Sorting,4,4,1
+Google,Dynamic Programming,2,1,4
+Amazon,Array,2,2,2
+Facebook,Linked List,7,2,3
+Microsoft,Dynamic Programming,7,4,2
+Microsoft,Dynamic Programming,9,2,4
+Google,Dynamic Programming,8,2,3
+Apple,Dynamic Programming,8,1,1
+Microsoft,Linked List,4,4,1
+Microsoft,Sorting,8,5,1
+Apple,Binary Tree,1,4,4
+Apple,Dynamic Programming,9,1,4
+Apple,Sorting,7,4,3
+Facebook,Array,3,5,2
+Amazon,Linked List,3,1,1
+Apple,Array,2,4,3
+Microsoft,Graph,6,2,4
+Apple,Graph,3,2,4
+Microsoft,Sorting,7,3,3
+Amazon,Linked List,7,5,3
+Microsoft,Sorting,3,1,5
+Apple,Binary Tree,1,5,5
+Amazon,Dynamic Programming,1,1,1
+Facebook,Dynamic Programming,3,2,1
+Microsoft,Dynamic Programming,8,3,2
+Facebook,Graph,5,1,3
+Amazon,Array,2,1,1
+Microsoft,Sorting,4,3,1
+Microsoft,Binary Tree,2,4,1
+Apple,Array,10,5,4
+Apple,Sorting,3,1,4
+Amazon,Graph,2,2,1
+Apple,Sorting,9,1,3
+Apple,Linked List,7,5,2
+Apple,Graph,1,1,3
+Microsoft,Graph,3,4,1
+Amazon,Dynamic Programming,6,5,4
+Amazon,Dynamic Programming,10,3,2
+Microsoft,Binary Tree,1,1,1
+Amazon,Linked List,5,1,2
+Google,Graph,1,5,4
+Apple,Linked List,3,2,1
+Amazon,Linked List,10,4,2
+Google,Linked List,6,5,4
+Microsoft,Dynamic Programming,9,5,3
+Amazon,Linked List,5,1,4
+Apple,Linked List,3,5,3
+Amazon,Linked List,8,1,2
+Google,Graph,7,2,4
+Google,Array,10,2,5
+Apple,Dynamic Programming,9,2,5
+Amazon,Dynamic Programming,3,5,4
+Google,Graph,5,3,4
+Amazon,Sorting,4,4,3
+Microsoft,Array,10,5,5
+Amazon,Linked List,3,5,5
+Microsoft,Array,10,1,4
+Microsoft,Graph,8,5,4
