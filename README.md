@@ -47,5 +47,5 @@ This project focuses on building a recommendation system to optimize learning pa
 2. [One Hot Encoding](https://ersj.eu/journal/3388/download/Use+of+Autoencoder+and+One-Hot+Encoding+for+Customer+Segmentation.pdf)
 3. [Neural Network Architecture](https://core.ac.uk/download/pdf/234645196.pdf)
 4. [Mean Squared Error (MSE)](https://www.sciencedirect.com/topics/engineering/mean-square-error)
-5. Sekhar, Ch & Meghana, P. (2020). A Study on Backpropagation in Artificial Neural Networks. Asia-Pacific Journal of Neural Networks and Its Applications, 4, 21-28. 10.21742/AJNNIA.2020.4.1.03.
+5. [Backpropagation in Artificial Neural Networks](https://gvpress.com/journals/AJNNIA/vol4_no1/3.pdf)
 6. [Adam Optimizer](https://arxiv.org/pdf/1412.6980)
